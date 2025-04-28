@@ -30,6 +30,5 @@ Execute the C Program for the desired output.
 
 
 
-
 # RESULT:
 The programs are executed successfully.
